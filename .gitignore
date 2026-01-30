@@ -1,0 +1,23 @@
+# System
+.DS_Store
+.tmp/
+.env
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Next.js
+.next/
+out/
+
+# Production
+build/
+
+# Misc
+.vercel
+*.log
